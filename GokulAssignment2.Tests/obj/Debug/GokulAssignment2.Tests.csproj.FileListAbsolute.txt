@@ -1,0 +1,17 @@
+C:\Users\MadMax\source\repos\GokulAssignment2\GokulAssignment2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\MadMax\source\repos\GokulAssignment2\GokulAssignment2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\MadMax\source\repos\GokulAssignment2\GokulAssignment2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\MadMax\source\repos\GokulAssignment2\GokulAssignment2.Tests\bin\Debug\GokulAssignment2.Tests.dll
+C:\Users\MadMax\source\repos\GokulAssignment2\GokulAssignment2.Tests\bin\Debug\GokulAssignment2.Tests.pdb
+C:\Users\MadMax\source\repos\GokulAssignment2\GokulAssignment2.Tests\bin\Debug\GokulAssignment2.exe
+C:\Users\MadMax\source\repos\GokulAssignment2\GokulAssignment2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\MadMax\source\repos\GokulAssignment2\GokulAssignment2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\MadMax\source\repos\GokulAssignment2\GokulAssignment2.Tests\bin\Debug\GokulAssignment2.pdb
+C:\Users\MadMax\source\repos\GokulAssignment2\GokulAssignment2.Tests\bin\Debug\GokulAssignment2.exe.config
+C:\Users\MadMax\source\repos\GokulAssignment2\GokulAssignment2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\MadMax\source\repos\GokulAssignment2\GokulAssignment2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\MadMax\source\repos\GokulAssignment2\GokulAssignment2.Tests\obj\Debug\GokulAssignment2.Tests.csprojAssemblyReference.cache
+C:\Users\MadMax\source\repos\GokulAssignment2\GokulAssignment2.Tests\obj\Debug\GokulAssignment2.Tests.csproj.CoreCompileInputs.cache
+C:\Users\MadMax\source\repos\GokulAssignment2\GokulAssignment2.Tests\obj\Debug\GokulAssignment2.Tests.csproj.CopyComplete
+C:\Users\MadMax\source\repos\GokulAssignment2\GokulAssignment2.Tests\obj\Debug\GokulAssignment2.Tests.dll
+C:\Users\MadMax\source\repos\GokulAssignment2\GokulAssignment2.Tests\obj\Debug\GokulAssignment2.Tests.pdb
